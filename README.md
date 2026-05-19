@@ -2,4 +2,4 @@ This repo contains all the code and data from **Linear and categorical coding un
 
 It uses code from https://github.com/machenslab/dPCA for dPCA and http://github.com/cortex-lab/allenCCF for histological analysis. 
 
-Note that for histological analysis, in order for `plot_histology_figures.mat` to run, you must first download the Allen CCF files from https://figshare.com/articles/dataset/Modified_Allen_CCF_2017_for_cortex-lab_allenCCF/25365829 and save them in the `histology` directory (they are too large to upload here).
+Note that for histological analysis, in order for `plot_histology_figures.m` to run, you must first download the Allen CCF files from https://figshare.com/articles/dataset/Modified_Allen_CCF_2017_for_cortex-lab_allenCCF/25365829 and save them in the `histology` directory (they are too large to upload here).
